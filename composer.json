@@ -1,0 +1,15 @@
+{
+    "name": "andersonmadeira/php-web-scraping-example",
+    "description": "Web Scraping in PHP",
+    "type": "project",
+    "require": {
+        "fabpot/goutte": "^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anderson Madeira",
+            "email": "andersonmadeiracs@gmail.com"
+        }
+    ]
+}
