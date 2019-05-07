@@ -1,6 +1,6 @@
 {
-    "name": "andersonmadeira/php-web-scraping-example",
-    "description": "Web Scraping in PHP",
+    "name": "andersonmadeira/rotten-tomatoes-scraper-example",
+    "description": "Web Scraping in PHP - Rotten Tomatoes Experiment",
     "type": "project",
     "require": {
         "fabpot/goutte": "^3.2"
